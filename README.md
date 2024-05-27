@@ -1,0 +1,2 @@
+# Tamagotchi
+praca grupowa
